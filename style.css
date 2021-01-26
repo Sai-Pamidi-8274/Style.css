@@ -1,0 +1,12 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.Folder{
+    background-color: mediumaquamarine;
+    display: flex;
+    justify-content: space-around;
+}
